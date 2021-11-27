@@ -1,4 +1,4 @@
-# Foodel MERN Client Side
+# Foodel MERN Server Side
 ## Server-Link
 https://evil-coffin-47333.herokuapp.com
 ## Site-Link
